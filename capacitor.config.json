@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "leo_online_store",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

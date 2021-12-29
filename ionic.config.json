@@ -1,0 +1,8 @@
+{
+  "name": "leo_online_store",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cbc883de"
+}
